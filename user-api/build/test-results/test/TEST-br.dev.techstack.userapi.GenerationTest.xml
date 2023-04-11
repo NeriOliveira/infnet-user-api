@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.dev.techstack.userapi.GenerationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-08T14:35:17" hostname="PNO" time="0.042">
+  <properties/>
+  <testcase name="shouldBeAbleToShowUserGenerationGold()" classname="br.dev.techstack.userapi.GenerationTest" time="0.028"/>
+  <testcase name="shouldBeAbleToShowUserGenerationBB()" classname="br.dev.techstack.userapi.GenerationTest" time="0.001"/>
+  <testcase name="shouldBeAbleToShowUserGenerationX()" classname="br.dev.techstack.userapi.GenerationTest" time="0.001"/>
+  <testcase name="shouldBeAbleToShowUserGenerationY()" classname="br.dev.techstack.userapi.GenerationTest" time="0.001"/>
+  <testcase name="shouldBeAbleToShowUserGenerationZ()" classname="br.dev.techstack.userapi.GenerationTest" time="0.001"/>
+  <testcase name="shouldBeAbleToShowUserGenerationAlpha()" classname="br.dev.techstack.userapi.GenerationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
